@@ -1,0 +1,10 @@
+
+[sncast.sepolia]
+url = "https://starknet-sepolia.g.alchemy.com/starknet/version/rpc/v0_10/IJnRzp_HehdCE7WfygE0A"
+account = "my_contract"
+accounts-file = "~/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+wait-params = { timeout = 300, retry-interval = 10 }
+block-explorer = "Voyager"
+show-explorer-links = true
+
+
