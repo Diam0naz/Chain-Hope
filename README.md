@@ -13,7 +13,7 @@ A decentralized charity platform built on StarkNet/Cairo where donations go dire
 
 ## Contract
 - **Network:** StarkNet Sepolia
-- **Address:** `<YOUR_CONTRACT_ADDRESS>`
+- **Address:** `0x0413a8ca2ebade8635f590fdc86074b34e811e2fe638bb0cd9ded41a004c6d25`
 - **Class Hash:** `0x2c52601aa3ab1064505694001c55370cb4c4a89bd0a34eb5826c8c41f5899f`
 
 ## Tech Stack
