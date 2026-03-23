@@ -13,3 +13,4 @@ snfoundry_dump.json
 # IDE
 .vscode/
 .idea/
+.snfoundry_cache/
